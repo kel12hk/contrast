@@ -42,5 +42,6 @@ Once the contract is complied in the IDE, we may deploy the contract with the et
 
 
 The functions can be simulated once the contract deployed. Here you go!
+
 ![Screenshot 2022-06-08 at 19 54 25](https://user-images.githubusercontent.com/76480688/172610109-e733828d-7e7e-45a7-aa5c-1a790c830dff.png)
 
