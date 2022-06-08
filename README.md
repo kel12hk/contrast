@@ -4,31 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## Short introduction
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Hi there! This is Kelvin and I am from Hong Kong! I have been in the banking industry for a few years and I hold a strong belief that we can transform the world with technologies in a good way. 
 
-## Features
+I love to learn new things and here you will learn me more of my background, my works based on what I learnt from the internet!
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Background
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+I study Information Systems back in university. So I slightly understand some `programming languages` and `cryptography`. (but I am still learning everyday!)
+I work in the bank to influence my customers to use digital banking like `API` and `Host-to-host` channels.
+I launch banking products and migrate IT systems in the bank too. 
 
 ## Installation (jekyll-remote-theme method)
 
