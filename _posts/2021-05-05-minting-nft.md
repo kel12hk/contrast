@@ -7,12 +7,18 @@ Speaking of `NFT` (Non-fungible token), the first NFT was actually minted and re
 
 ![Screenshot 2022-06-08 at 23 07 47](https://user-images.githubusercontent.com/76480688/172651908-c5ff82e8-4bd1-491a-8440-2ab4361253af.png)
 
-###### Start with a photo
 
 
-## Blockquotes
+## Steps of how I minted a NFT on my own
 
-### Single line
+### 1. Prepare your artpiece
+
+### 2. Get an account in the NFT marketplace
+I am using [Rarible](https://rarible.com/) in my case.
+
+### 3. Connect your wallet with the marketplace. You will need some tokens to mint your NFT on the protocol you plan to use (Ether, Polygon, Tezos, Flow).
+
+### 4. 
 
 > My mom always said life was like a box of chocolates. You never know what you're gonna get.
 
