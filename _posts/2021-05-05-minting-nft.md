@@ -5,6 +5,7 @@ layout: post
 
 Speaking of `NFT` (Non-fungible token), the first NFT was actually minted and release to th public back to 2014. However, in 2021, this word has no longer be just a buzzword but a trend that everybody is fascinated in. NFT has aroused popularity and holding one of them shows how trendy you are. Besides of holding some NFTs, I would show you below how do I try to mint one of my photos as an NFT and list in the marketplace. I would be more than happy if you wish to buy this 'art piece' from me. lol. 
 
+[My first NFT](https://rarible.com/token/polygon/0x35f8aee672cde8e5fd09c93d2bfe4ff5a9cf0756:22998860194804531792596179373329320329898849000174278738957268999638339289089?tab=details)
 ![Screenshot 2022-06-08 at 23 07 47](https://user-images.githubusercontent.com/76480688/172651908-c5ff82e8-4bd1-491a-8440-2ab4361253af.png)
 
 
