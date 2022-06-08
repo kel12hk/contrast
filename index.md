@@ -29,7 +29,7 @@ I study Information Systems back in university. I also do some easy `programming
 
 I work in the bank to influence my customers to switch to digital banking like `API` and `Host-to-host` channels, or simple as mobile app collection or online banking. [One of my notable digital banking deals driven.](https://www.theasset.com/awards/treasury-22-new-economy)
 
-<img src="https://user-images.githubusercontent.com/76480688/172677205-bd2e3740-d646-450a-bd2f-26ad6c8f0819.png" height="100">
+<img src="https://user-images.githubusercontent.com/76480688/172677205-bd2e3740-d646-450a-bd2f-26ad6c8f0819.png" height="200">
 
 I promote new technologies and data-driven working models in the bank too. 
 
