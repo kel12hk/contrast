@@ -16,7 +16,6 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md", title: "About me"}
   - {title: "My resume", url: "https://github.com/kel12hk/kel12hk.github.io/blob/master/Kelvin%20Lai%20-%20CV%20latest.pdf"}
   - {title: "LinkedIn Profile", url: "https://www.linkedin.com/in/kelvinlaichunyin/"}
   - {title: "My experiments", file: "exp.md"}
