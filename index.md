@@ -14,3 +14,22 @@ title: "About me"
 🌱 I’m currently learning how institutions use blockchain to transform themselves from TradFi to DeFi
 
 📫 Reach me at kelvinlai@pm.me, let's collaborate and explore!
+
+
+## Short introduction
+
+Hi there! This is Kelvin and I am from Hong Kong! I have been in the banking industry for a few years and I hold a strong belief that we can transform the world with technologies in a good way. 
+
+I love to learn new things and here you will learn me more of my background, my works based on what I learnt from the internet!
+
+
+## Background
+
+I study Information Systems back in university. I also do some easy `programming languages` to build stuff on my own like `Java`, `Python` and `SQL` for my daily handling of business problems.
+
+I work in the bank to influence my customers to switch to digital banking like `API` and `Host-to-host` channels, or simple as mobile app collection or online banking.
+
+I launch banking products and migrate IT systems in the bank too. 
+
+![0f6e1a4f-2d57-4c76-933f-c1567a59f563 2](https://user-images.githubusercontent.com/76480688/172675397-b05f171a-a814-41bb-a6c6-4d946f00fa81.jpg)
+
