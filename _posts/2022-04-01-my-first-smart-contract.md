@@ -5,13 +5,16 @@ layout: post
 
 There are quite a number of DeFi projects are actually supported by smart contracts. Once the conditions in the smart contracts are fulfilled, participants are eligble to retrieve the return. Hence, I have also tried to built one on my own to see how does it work.
 
-The smart contract I built is a rather simple one and I am just to experience how is a smart contact being developed and deployed in a blockchain protocol.
+The smart contract I built is a rather simple one and I am just to experience how is a smart contact being developed and deployed in a blockchain protocol. The 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity >=0.6.0 <0.9.0;
 
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+contract HelloWorld {
+    function helloWorld() external pure returns (string memory) {
+        return "Hello, World!";
+    }
+}
+```
+//
