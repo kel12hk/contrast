@@ -1,22 +1,13 @@
 ---
-title:  "Markdown examples"
+title:  "Minting my own NFT"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Speaking of `NFT` (Non-fungible token), the first NFT was actually minted and release to th public back to 2014. However, in 2021, this word has no longer be just a buzzword but a trend that everybody is fascinated in. NFT has aroused popularity and holding one of them shows how trendy you are. Besides of holding some NFTs, I would show you below how do I try to mint one of my photos as an NFT and list in the marketplace. I would be more than happy if you wish to buy this 'art piece' from me. lol. 
 
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
+![Screenshot 2022-06-08 at 23 07 47](https://user-images.githubusercontent.com/76480688/172651908-c5ff82e8-4bd1-491a-8440-2ab4361253af.png)
 
-
-## Heading Two (h2)
-
-### Heading Three (h3)
-
-#### Heading Four (h4)
-
-##### Heading Five (h5)
-
-###### Heading Six (h6)
+###### Start with a photo
 
 
 ## Blockquotes
