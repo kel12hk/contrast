@@ -31,6 +31,8 @@ I work in the bank to influence my customers to switch to digital banking like `
 
 <img src="https://user-images.githubusercontent.com/76480688/172677205-bd2e3740-d646-450a-bd2f-26ad6c8f0819.png" height="100">
 
-I launch banking products and migrate IT systems in the bank too. 
+I promote new technologies and data-driven working models in the bank too. 
+
+![7f1fe4c1-eb3d-4d8a-990b-ae41630c8f6f 2](https://user-images.githubusercontent.com/76480688/172681045-407e01d1-309c-425b-b465-e0df21f73659.jpg)
 
 <img src="https://user-images.githubusercontent.com/76480688/172675397-b05f171a-a814-41bb-a6c6-4d946f00fa81.jpg" height="500">
