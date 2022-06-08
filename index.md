@@ -28,8 +28,8 @@ I love to learn new things and here you will learn me more of my background, my 
 I study Information Systems back in university. I also do some easy `programming languages` to build stuff on my own like `Java`, `Python` and `SQL` for my daily handling of business problems.
 
 I work in the bank to influence my customers to switch to digital banking like `API` and `Host-to-host` channels, or simple as mobile app collection or online banking. [One of my notable digital banking deals driven.](https://www.theasset.com/awards/treasury-22-new-economy)
-![image](https://user-images.githubusercontent.com/76480688/172677205-bd2e3740-d646-450a-bd2f-26ad6c8f0819.png)
 
+<img src="https://user-images.githubusercontent.com/76480688/172677205-bd2e3740-d646-450a-bd2f-26ad6c8f0819.png" height="200">
 
 I launch banking products and migrate IT systems in the bank too. 
 
